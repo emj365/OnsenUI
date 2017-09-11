@@ -82,6 +82,7 @@
     "react-dom": "^15.5.3"
   },
   "dependencies": {
+    "babel-eslint": "^7.2.3",
     "prop-types": "^15.5.10"
   }
 }
